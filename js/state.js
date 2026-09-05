@@ -763,8 +763,6 @@ export function deleteExpense(id) {
 
 export function syncExpenses(message) { return commitExpenses(message || 'Sync expenses'); }
 
-export function syncExpenses(message) { return commitExpenses(message || 'Sync expenses'); }
-
 // ============================================================
 // 12. Mutations: Supplier Returns
 // ============================================================
