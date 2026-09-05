@@ -1,0 +1,17 @@
+{
+  "name": "dripp-medicos",
+  "version": "1.0.0",
+  "description": "Gynecological, Obstetrics & Maternal Health Pharmacy POS",
+  "type": "module",
+  "scripts": {
+    "init": "node scripts/init-repo.js",
+    "deploy": "node scripts/deploy.js",
+    "verify": "node scripts/verify-deployment.js",
+    "lint": "echo 'No linter configured — vanilla ES6 modules'",
+    "test": "echo 'No test runner configured — manual QA scenarios in README.md'"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["pos", "pharmacy", "gyno", "serverless", "github-api", "vercel"],
+  "author": "Dripp Medicos Team",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "doc-1", "name": "Dr. Rehan Ahmed",   "specialty": "Gynaecologist", "pmc": "PMC-12345", "hospitalName": "Dripp Medicos — Main Branch", "phone": "+92-300-1234567" },
+  { "id": "doc-2", "name": "Dr. Sana Malik",    "specialty": "Obstetrician",  "pmc": "PMC-22011", "hospitalName": "Liaquat National Hospital",  "phone": "+92-321-9876543" },
+  { "id": "doc-3", "name": "Dr. Asma Yousaf",   "specialty": "Fertility",     "pmc": "PMC-33012", "hospitalName": "Concept Fertility Centre",   "phone": "+92-333-5551212" },
+  { "id": "doc-4", "name": "Dr. Imran Qureshi", "specialty": "Sonologist",    "pmc": "PMC-44013", "hospitalName": "South City Hospital",        "phone": "+92-345-1112233" }
+]
